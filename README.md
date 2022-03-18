@@ -62,18 +62,26 @@ SHARING/ACCESS INFORMATION
 	<br />
 	There would be no sensitive data, the data would be public with the agreement from schools. Further changes would be noticed as soon as possible. 
 	<br />
-2. Links to publications that cite or use the data: 
-
+2. Links to publications that cite or use the data:
+ 	<br />
+	The research is undergoing, the links will be published once the study is finished. 
+	<br />
 3. Links to other publicly accessible locations of the data: 
-
+	<br />
+	The research is undergoing, the links and the related information will be published once the study is finished. 
+	<br />
 4. Links/relationships to ancillary data sets: 
-
-5. Was data derived from another source? yes/no
-	A. If yes, list source(s): 
-
-6. Recommended citation for this dataset: 
-
-
+	<br />
+	The research is undergoing, the links will include the ancillary data sets.  
+	<br />
+5. Was data derived from another source?
+	<br />
+	No
+	<br />
+6. Recommended citation for this dataset:
+	<br />
+	The research is undergoing, the citation will be publichsde once the study is finished 
+	<br />
 DATA & FILE OVERVIEW
 
 1. File List: 
