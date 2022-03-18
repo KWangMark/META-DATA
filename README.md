@@ -1,7 +1,7 @@
 # META-DATA
 GENERAL INFORMATION
 
-1. Title of Dataset: <mark> Academic behaviors that could affect online courses academic achievement </mark> 
+1. Title of Dataset: **Academic behaviors that could affect online courses academic achievement** 
 
 2. Author Information
 	A. Principal Investigator Contact Information
