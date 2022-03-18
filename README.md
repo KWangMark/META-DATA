@@ -32,32 +32,30 @@ GENERAL INFORMATION
 		<br />
 
 3. Date of data collection: 
-	<br />
-	Approximate Date: 
-	<br />
-	2022-April-30 : the data extracted from Zoom throughout the whole term.
-	<br />
-	2022-April-30 : the data extracted from canvas throughout the whole term.
-	<br />
-	2022-May-10 (After students' final exam): Surveys (whether this is the mandatory or elective courses) (Detect Confounding Variables)
+		<br />
+		Approximate Date: 
+		<br />
+		2022-April-30 : the data extracted from Zoom throughout the whole term.
+		<br />
+		2022-April-30 : the data extracted from canvas throughout the whole term.
+		<br />
+		2022-May-10 (After students' final exam): Surveys (whether this is the mandatory or elective courses) (Detect Confounding Variables)
 	
 	
 
 4. Geographic location of data collection <latitude, longiute, or city/region, State, Country, as appropriate>:
-<br />
-	Location: An online class in a highschool. 
-	<br />
-	State: New York 
-	<br />
-	Country: The United State
-	<br />
-	
- 
-
+		<br />
+		Location: An online class in a highschool. 
+		<br />
+		State: New York 
+		<br />
+		Country: The United State
+		<br />	
+		
 5. Information about funding sources that supported the collection of the data:
-	No funding in this study currently.  
-
-
+		<br />
+		No funding in this study currently.  
+		<br />
 SHARING/ACCESS INFORMATION
 
 1. Licenses/restrictions placed on the data: 
