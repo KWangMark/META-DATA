@@ -82,10 +82,30 @@ SHARING/ACCESS INFORMATION
 	<br />
 	The research is undergoing, the citation will be publichsde once the study is finished 
 	<br />
+
 DATA & FILE OVERVIEW
 
-1. File List: 
+1. File List: **(refers to TIER folders)**  
 <list all files (or folders, as appropriate for dataset organization) contained in the dataset, with a brief description>
+	- Original Data Files: (contains information about raw data)
+		- raw data extracted from Zoom 
+		- raw data extracted from Canvas 
+		- raw data collected from survies
+	- MetaData Guide:
+		- information about each data files
+	- Data Appendix: (contains information about variables) 
+		- information about variables 
+		- codebook files
+		- core data **(refer readings from week 8)**  
+	- Analysis Data: (contains clean (importable) data and data used to analysis) 
+		- cleaned data from Zoom 
+		- cleaned data from Canvas 
+		- transformed data from survies
+	- Command files: (Keeping track of the whole research process) 
+		- Research Records in each phases 
+		- analysis files
+			- Code that generate results
+		
 
 2. Relationship between files, if important: 
 
