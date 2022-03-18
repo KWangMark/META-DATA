@@ -108,25 +108,81 @@ DATA & FILE OVERVIEW
 				- File name: codebook.pdf
 		- core data **(refer readings from week 8)**  
 			File name: core_data.csv (keep one record of the core data that can replicate the study outcome) 
+					- rows 
+						- student psudo ids
+					- attribute 
+						- the study is undergoing, the attributes will be the same with the newest analysis_code version.  
 	- Analysis Data: (contains clean (importable) data and data used to analysis) 
 		- cleaned data from Zoom 
 			- File name: clean_zoom.csv
 				- rows
 					- students' psudo ids 
 				- attributes 
-					- 
+					- the number of "hand-rasing" clicks 
+					- the number of absent days 
 		- cleaned data from Canvas 
+			- File name: clean_canvas.csv 
+				- rows
+					- students' psudo ids 
+				- attributes 
+					- the number of discussion post
+					- the total number of canvas resources visited 
+					- the rate of assignment completion 
+					- average essay score 
+					- average test score 
 		- transformed data from survies
+			- File name: clean_survies.csv 
+				- rows 
+					- students' psudo ids
+				- attributes 
+					- mandatory? (categorical data: whether the course is mandatory or not) 
+					- office hour attendence? (categorical data: whether a student has attended office hour) 
+					- the estimated totoal number of study hours outside of the class
 	- Command files: (Keeping track of the whole research process) 
 		- Research Records in each phases 
+			File name: Research_record.pdf 
 		- analysis files
 			- Code that generate results
+				- File name: cleaning_code.html (demonstrate the code for cleaning data) 
+				- File name: analysis_ready_data_v1.html (the clean data file that combined all the separate clean csv files)
+					- rows
+						- student psudo ids
+					- attributes 
+						- the number of "hand-rasing" clicks 
+						- the number of absent days 
+						- the number of discussion post
+						- the total number of canvas resources visited 
+						- the rate of assignment completion 
+						- average essay score 
+						- average test score 
+						- mandatory? (categorical data: whether the course is mandatory or not) 
+						- office hour attendence? (categorical data: whether a student has attended office hour) 
+						- the estimated totoal number of study hours outside of the class
+				- File name: analysis_code_v1.html (the fist code version for analyzing)
+					- cluster analysis 
+					- Principle Component analysis 
+					- logistic regression model
+				- File name: analysis_ready_data_v2.html (the clean data file when some attributes need to be filtered out from analysis_ready_data_v1.html) 
+					- rows 
+						- student psudo ids 
+					- attributes
+						- the study is undergoing, the adjusted attributes will be updated here
+				- File name: analysis_code_v2.html (the second code version for analyzing) 
+					- cluster analysis 
+					- Principle Component analysis 
+					- logistic regression model 
+					(the study is undergoing, the adjusted analysis method will be updated here) 
+				- File name: core_data.csv (the data that generate the outcome of study, this will be stored in appendix section too) 
+					- rows 
+						- student psudo ids
+					- attribute 
+						- the study is undergoing, the attributes will be the same with the newest analysis_code version.  
 		
 
 2. Relationship between files, if important: 
-
+	The files a
 3. Additional related data collected that was not included in the current data package: 
-
+	No additional related data. 
 4. Are there multiple versions of the dataset? yes/no
 	A. If yes, name of file(s) that was updated: 
 		i. Why was the file updated? 
