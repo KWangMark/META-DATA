@@ -22,8 +22,10 @@ GENERAL INFORMATION
 		[Address]: \ 
 		[Email]: \ 
 
-3. Date of data collection (single date, range, approximate date) <suggested format YYYY-MM-DD>: 
+3. Date of data collection: 
+	<br />
 	Approximate Date: 
+	<br />
 	2022-April-30 : the data extracted from Zoom on the whole term.
 	<br />
 	2022-April-30 : the data extracted from canvas on the whole term.
