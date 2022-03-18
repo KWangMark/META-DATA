@@ -4,23 +4,23 @@ GENERAL INFORMATION
 1. Title of Dataset: **Academic behaviors that could affect online courses academic achievement** 
 
 2. Author Information
-	Principal Investigator Contact Information\
+	A.Principal Investigator Contact Information\
 		[Name]: Ruoqi Wang\
 		[Institution]: Teachers College, Columbia University\
 		[Address]: New York\
-		[Email]:(markwangruoqi@gmail.com)\
+		[Email]:(markwangruoqi@gmail.com)
 
-	B. Associate or Co-investigator Contact Information
-		Name: 
-		Institution: 
-		Address: 
-		Email: 
+	B. Associate or Co-investigator Contact Information\
+		Name:\ 
+		Institution:\ 
+		Address:\ 
+		Email:\ 
 
-	C. Alternate Contact Information
-		Name: 
-		Institution: 
-		Address: 
-		Email: 
+	C. Alternate Contact Information\
+		Name:\ 
+		Institution:\ 
+		Address:\ 
+		Email:\ 
 
 3. Date of data collection (single date, range, approximate date) <suggested format YYYY-MM-DD>: 
 
