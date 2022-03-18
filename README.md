@@ -60,6 +60,7 @@ SHARING/ACCESS INFORMATION
 
 1. Licenses/restrictions placed on the data: 
 	<br />
+	The raw data would be kept by school, the potential users could ask for accessing the raw data from the school.
 	There would be no sensitive data, the data would be public with the agreement from schools. Further changes would be noticed as soon as possible. 
 	<br />
 2. Links to publications that cite or use the data:
@@ -87,18 +88,33 @@ DATA & FILE OVERVIEW
 
 1. File List: **(refers to TIER folders)**  
 <list all files (or folders, as appropriate for dataset organization) contained in the dataset, with a brief description>
-	- Original Data Files: (contains information about raw data)
-		- raw data extracted from Zoom 
+	- Original Data folder: (contains files about raw data)
+		- raw data extracted from Zoom
+			- File name: raw_zoom.csv (More information will be updated once the raw data is obtained)  
 		- raw data extracted from Canvas 
+			- File name: raw_canvas.csv (More information will be updated once the raw data is obtained)
 		- raw data collected from survies
-	- MetaData Guide:
+			- File name: raw_survies.csv (Generated from Google forms)
+	- MetaData Guide folder:
 		- information about each data files
+			- File name: 
+				- raw_data_description.doc : describes the rows and columns of each raw data files.
+				- clean_data_description.doc : describe the rows and columns of each clean data files and transformation from raw data to clean data) 
+				- Coding_description.doc : A code book that describes the study conceptual framework and every variables and abbreviation in detials) 
+				- timeline_record.doc : Record the major changes in each phases in the study.  		
 	- Data Appendix: (contains information about variables) 
 		- information about variables 
-		- codebook files
+		 	- codebook files
+				- File name: codebook.pdf
 		- core data **(refer readings from week 8)**  
+			File name: core_data.csv (keep one record of the core data that can replicate the study outcome) 
 	- Analysis Data: (contains clean (importable) data and data used to analysis) 
 		- cleaned data from Zoom 
+			- File name: clean_zoom.csv
+				- rows
+					- students' psudo ids 
+				- attributes 
+					- 
 		- cleaned data from Canvas 
 		- transformed data from survies
 	- Command files: (Keeping track of the whole research process) 
