@@ -23,6 +23,12 @@ GENERAL INFORMATION
 		[Email]: \ 
 
 3. Date of data collection (single date, range, approximate date) <suggested format YYYY-MM-DD>: 
+	Approximate Date: 
+	2022-April-30 : the data extracted from Zoom on the whole term.\
+	2022-April-30 : the data extracted from canvas on the whole term. 
+	2022-May-10 (After students' final exam): Surveys (whether this is the mandatory or elective courses) (Detect Confounding Variables)/
+	
+	
 
 4. Geographic location of data collection <latitude, longiute, or city/region, State, Country, as appropriate>: 
 
