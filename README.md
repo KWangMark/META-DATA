@@ -105,6 +105,7 @@ METHODOLOGICAL INFORMATION
 2. Methods for processing the data: 
 <describe how the submitted data were generated from the raw or collected data>
 
+
 3. Instrument- or software-specific information needed to interpret the data: 
 <include full name and version of software, and any necessary packages or libraries needed to run scripts>
 
