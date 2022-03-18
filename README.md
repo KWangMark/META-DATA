@@ -11,16 +11,25 @@ GENERAL INFORMATION
 		[Email]:(markwangruoqi@gmail.com)
 
 	B. Associate or Co-investigator Contact Information\
-		[Name]: \ 
-		[Institution]: \ 
-		[Address]: \ 
-		[Email]: \ 
+		[Name]:
+		<br />
+		[Institution]: 
+		<br />
+		[Address]: 
+		<br />
+		[Email]:
+		<br />
 
-	C. Alternate Contact Information \
-		[Name]: \ 
-		[Institution]: \ 
-		[Address]: \ 
-		[Email]: \ 
+	C. Alternate Contact Information <br />
+	<br />
+		[Name]: 
+		<br />
+		[Institution]:
+		<br />
+		[Address]: 
+		<br />
+		[Email]:
+		<br />
 
 3. Date of data collection: 
 	<br />
