@@ -5,9 +5,13 @@ GENERAL INFORMATION
 
 2. Author Information
 	A. Principal Investigator Contact Information
+	
 		Name: Ruoqi Wang
+		
 		Institution: Teachers College, Columbia University 
-		Address: New York 
+		
+		Address: New York
+		
 		[Email]:(markwangruoqi@gmail.com)
 
 	B. Associate or Co-investigator Contact Information
