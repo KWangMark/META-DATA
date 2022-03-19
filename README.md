@@ -26,11 +26,11 @@ GENERAL INFORMATION
 		<br />
 		Approximate Date: 
 		<br />
-		2022-April-30: the data extracted from Zoom throughout the whole term.
+		2022-April: the data extracted from Zoom throughout the whole term.
 		<br />
-		2022-April-30: the data extracted from canvas throughout the whole term.
+		2022-April: the data extracted from canvas throughout the whole term.
 		<br />
-		2022-May-10 (After students' final exam): Surveys (whether this is the mandatory or elective courses) (Detect Confounding Variables)
+		2022-May (After students' final exam): Surveys (whether this is the mandatory or elective courses) (Detect Confounding Variables)
 	
 	
 
