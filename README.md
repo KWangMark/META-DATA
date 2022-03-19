@@ -88,7 +88,7 @@ DATA & FILE OVERVIEW
 			- Filename: raw_canvas.csv (More information will be updated once the raw data is obtained)
 		- raw data collected from surveys
 			- Filename: raw_surveys.csv (Generated from Google forms)
-	- MetaData Guide folder:
+	- MetaData Guide folder:\
 	*Folder created Date: 2022-March-19th, File created Date: undated* 
 		- information about each data file
 			- Filename: 
@@ -96,7 +96,8 @@ DATA & FILE OVERVIEW
 				- clean_data_description.doc: describe the rows and columns of each clean data file and transformation from raw data to clean data) 
 				- Coding_description.doc: A codebook that describes the study conceptual framework and every variable and abbreviation in detail) 
 				- timeline_record.doc: Record the major changes in each phase in the study.  		
-	- Data Appendix: (contains information about variables) *Folder created Date: 2022-March-19th, File created Date: undated* 
+	- Data Appendix: (contains information about variables)\
+	*Folder created Date: 2022-March-19th, File created Date: undated* 
 		- information about variables 
 		 	- codebook files
 				- File name: codebook.pdf
@@ -106,7 +107,7 @@ DATA & FILE OVERVIEW
 						- student pseudo ids
 					- attribute 
 						- the study is undergoing, the attributes will be the same with the newest analysis_code version.  
-	- Analysis Data: (contains clean (importable) data and data used to analysis)
+	- Analysis Data: (contains clean (importable) data and data used to analysis)\
 	*Folder created Date: 2022-March-19th, File created Date: undated* 
 		- cleaned data from Zoom 
 			- Filename: clean_zoom.csv
@@ -133,7 +134,7 @@ DATA & FILE OVERVIEW
 					- mandatory? (categorical data: whether the course is mandatory or not) 
 					- office hour attendance? (categorical data: whether a student has attended office hour) 
 					- the estimated total number of study hours outside of the class
-	- Command folder: (Keeping track of the whole research process)
+	- Command folder: (Keeping track of the whole research process)\
 	*Folder created Date: 2022-March-19th, File created Date: undated* 
 		- Research Records in each phase 
 			Filename: Research_record.pdf 
