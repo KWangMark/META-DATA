@@ -216,8 +216,10 @@ METHODOLOGICAL INFORMATION
 DATA-SPECIFIC INFORMATION FOR: core_data.csv
 
 1. Number of variables: 
+<br />
 	10 (further changes will be updated) 
-2. Number of cases/rows: 
+2. Number of cases/rows:
+<br />
 	200 (further changes will be updated)
 3. Variable List: 
 	- numhandraise: the number of "hand-rasing" clicks - variable is assessed by how many times the student clicks on the “raise hand” button on Zoom throughout the whole semester. 
