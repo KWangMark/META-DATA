@@ -1,7 +1,7 @@
 # META-DATA
 GENERAL INFORMATION
 
-1. Title of Dataset: **Academic behaviors that could affect online courses academic achievement** 
+1. Title of Dataset: **behavioral factors may affect undergraduate students' test scores in the American history course in one semester for the synchronous online settings such as Zoom & Canvas** 
 
 2. Author Information
 	A.Principal Investigator Contact Information\
@@ -57,15 +57,15 @@ SHARING/ACCESS INFORMATION
 	<br />
 2. Links to publications that cite or use the data:
  	<br />
-	The research is undergoing, the links will be published once the study is finished. 
+	The research is undergoing, the related information will be posted once the study is finished. 
 	<br />
 3. Links to other publicly accessible locations of the data: 
 	<br />
-	The research is undergoing, the links and the related information will be published once the study is finished. 
+	The research is undergoing, the related information will be posted once the study is finished. 
 	<br />
 4. Links/relationships to ancillary data sets: 
 	<br />
-	The research is undergoing, the links will include the ancillary data sets.  
+	The research is undergoing, the related information will be posted once the study is finished.  
 	<br />
 5. Was data derived from another source?
 	<br />
@@ -73,7 +73,7 @@ SHARING/ACCESS INFORMATION
 	<br />
 6. Recommended citation for this dataset:
 	<br />
-	The research is undergoing, the citation will be publichsde once the study is finished 
+	The research is undergoing, the citation or related information will be posted once the study is finished 
 	<br />
 
 DATA & FILE OVERVIEW
@@ -182,7 +182,7 @@ DATA & FILE OVERVIEW
 METHODOLOGICAL INFORMATION
 
 1. Description of methods used for collection/generation of data:
-  The data will be collected with the agreement from school, Zoom, and Canvas. 
+  We expect that the data will be collected with the permission from school, Zoom, and Canvas. 
 
 2. Methods for processing the data: 
   Data Cleaning Process: 
@@ -206,9 +206,9 @@ METHODOLOGICAL INFORMATION
 DATA-SPECIFIC INFORMATION FOR: core_data.csv
 
 1. Number of variables: 
-	10 (futuer changes will be updated) 
+	10 (further changes will be updated) 
 2. Number of cases/rows: 
-	200 (futer changes will be updated)
+	200 (further changes will be updated)
 3. Variable List: 
 	- numhandraise: the number of "hand-rasing" clicks - variable is assessed by how many times the student clicks on the “raise hand” button on Zoom throughout the whole semester. 
 	- abentdays: the number of absent days - This is assessed by the number of times the student did not enter the zoom meeting at all while there is a class scheduled throughout the whole semester. 
