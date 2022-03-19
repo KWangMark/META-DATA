@@ -1,7 +1,7 @@
 # META-DATA
 GENERAL INFORMATION
 
-1. Title of Dataset: **behavioral factors may affect undergraduate students' test scores in the American history course in one semester for the synchronous online settings such as Zoom & Canvas** 
+1. Title of Dataset: **Behavioral factors may affect undergraduate students' test scores in the American history course in one semester for the synchronous online settings such as Zoom & Canvas** 
 
 2. Author Information
 	A.Principal Investigator Contact Information\
