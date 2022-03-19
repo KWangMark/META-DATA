@@ -51,8 +51,9 @@ SHARING/ACCESS INFORMATION
 
 1. Licenses/restrictions placed on the data: 
 	<br />
-	The raw data would be kept by school, the potential users could ask for accessing the raw data from the school.
+	We expect the raw data would be kept by school, the potential users could ask for accessing the raw data from the school.
 	There would be no sensitive data, the data would be public with the agreement from schools. Further changes would be noticed as soon as possible. 
+	However, since the project is undergoing and the data has not been collected, further changes will be updated here. 
 	<br />
 2. Links to publications that cite or use the data:
  	<br />
