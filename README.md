@@ -180,47 +180,58 @@ DATA & FILE OVERVIEW
 		
 
 2. Relationship between files, if important: 
-	The files a
+	None.
 3. Additional related data collected that was not included in the current data package: 
-	No additional related data. 
+	None.
 4. Are there multiple versions of the dataset? yes/no
-	A. If yes, name of file(s) that was updated: 
-		i. Why was the file updated? 
-		ii. When was the file updated? 
+	No.
 
 
 METHODOLOGICAL INFORMATION
 
-1. Description of methods used for collection/generation of data: 
-<Include links or references to publications or other documentation containing experimental design or protocols used in data collection>
+1. Description of methods used for collection/generation of data:
+  The data will be collected with the agreement from school, Zoom, and Canvas. 
 
 2. Methods for processing the data: 
 <describe how the submitted data were generated from the raw or collected data>
+  Data Cleaning Process: 
+	* Combine two tables into one, with rows being represented as observations and columns being represented as variables. 
+	* Continuous variable with a wide range, we standardize them to improve model performance, such as ‘average essay scores’ and ‘average previous tests’. 
+	* variables that are likely to have many zeros, we make it into categorical variables to prevent the skewing of data (left-skewed). 
+	* variables that contain outliers and null values will be substituted with median, mean, or mode depending on the distribution of data.
 
 
 3. Instrument- or software-specific information needed to interpret the data: 
-<include full name and version of software, and any necessary packages or libraries needed to run scripts>
-
+	Jupyter Notebook version 6.4.5 will be used to interpret the data
 4. Standards and calibration information, if appropriate: 
-
+	None
 5. Environmental/experimental conditions: 
-
+	Not specified
 6. Describe any quality-assurance procedures performed on the data: 
-
+	None 
 7. People involved with sample collection, processing, analysis and/or submission: 
+	Ruoqi Wang will involve with sample processing and analysis, other project members will be responsible for sample collection, and submission. 
 
-
-DATA-SPECIFIC INFORMATION FOR: [FILENAME]
-<repeat this section for each dataset, folder or file, as appropriate>
+DATA-SPECIFIC INFORMATION FOR: core_data.csv
 
 1. Number of variables: 
-
+	10 (futuer changes will be updated) 
 2. Number of cases/rows: 
-
+	200 (futer changes will be updated)
 3. Variable List: 
 <list variable name(s), description(s), unit(s)and value labels as appropriate for each>
-
+	- numhandraise: the number of "hand-rasing" clicks - variable is assessed by how many times the student clicks on the “raise hand” button on Zoom throughout the whole semester. 
+	- abentdays: the number of absent days - This is assessed by the number of times the student did not enter the zoom meeting at all while there is a class scheduled throughout the whole semester. 
+	- discussposts: the number of discussion post -This is assessed by how many posts the students posted on the voluntary discussion board of the course.
+	- resourvisit: the total number of canvas resources visited - This is assessed by how many times the student visits the course Canvas page throughout the entire semester. 
+	- assigncomplete: the rate of assignment completion - This data is assessed by the number of assignments completed throughout the semester divided by the total number of assignments assigned by the instructors throughout the whole semester. 
+	- avges: average essay score - This is assessed by the total number of essay scores of the entire semester divided by the total number of essays assigned throughout the semester. 
+	- avgts: average test score - This variable is assessed by the total number of points gained in all tests throughout the semester divided by the total number of tests given by the instructors throughout the semester.
+	- mandatory? : categorical data: whether the course is mandatory or not 
+	- office hour attendence? : categorical data: whether a student has attended office hour
+	- estlearntime: the estimated totoal number of study hours outside of the class
 4. Missing data codes: 
-<list code/symbol and definition>n
+	No
 
-5. Specialized formats or other abbreviations used: 
+5. Specialized formats or other abbreviations used:  
+	No
