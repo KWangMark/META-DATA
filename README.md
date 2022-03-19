@@ -189,7 +189,8 @@ METHODOLOGICAL INFORMATION
 1. Description of methods used for collection/generation of data:
   We expect that the data will be collected with permission from the school, Zoom, and Canvas. 
 
-2. Methods for processing the data:\ 
+2. Methods for processing the data:
+ <br />
   Data Cleaning Process: 
 	* Combine two tables into one, with rows being represented as observations and columns being represented as variables. 
 	* Continuous variables with a wide range, we standardize them to improve model performance, such as ‘average essay scores’ and ‘average previous tests’. 
