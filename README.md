@@ -197,15 +197,20 @@ METHODOLOGICAL INFORMATION
 	* variables that contain outliers and null values will be substituted with median, mean, or mode depending on the distribution of data.
 
 
-3. Instrument- or software-specific information needed to interpret the data:\ 
+3. Instrument- or software-specific information needed to interpret the data:
+	<br /> 
 	Jupyter Notebook version 6.4.5 will be used to interpret the data
-4. Standards and calibration information, if appropriate:\ 
+4. Standards and calibration information, if appropriate:
+	<br />
 	None
-5. Environmental/experimental conditions:\ 
+5. Environmental/experimental conditions:
+	<br />
 	Not specified
-6. Describe any quality-assurance procedures performed on the data:\ 
+6. Describe any quality-assurance procedures performed on the data:
+	<br />
 	None 
-7. People involved with sample collection, processing, analysis and/or submission:\ 
+7. People involved with sample collection, processing, analysis and/or submission:
+	<br />
 	Ruoqi Wang will involve with sample processing and analysis, other project members will be responsible for sample collection, and submission. 
 
 DATA-SPECIFIC INFORMATION FOR: core_data.csv
