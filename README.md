@@ -80,14 +80,16 @@ DATA & FILE OVERVIEW
 
 1. File List: **(refers to TIER folders)**  
 <list all files (or folders, as appropriate for dataset organization) contained in the dataset, with a brief description>
-	- Original Data folder: (contains files about raw data) *Folder created Date: 2022-March-19th, File created Date: undated* 
+	- Original Data folder: (contains files about raw data)
+	*Folder created Date: 2022-March-19th, File created Date: undated* 
 		- raw data extracted from Zoom
 			- Filename: raw_zoom.csv (More information will be updated once the raw data is obtained)  
 		- raw data extracted from Canvas 
 			- Filename: raw_canvas.csv (More information will be updated once the raw data is obtained)
 		- raw data collected from surveys
 			- Filename: raw_surveys.csv (Generated from Google forms)
-	- MetaData Guide folder: *Folder created Date: 2022-March-19th, File created Date: undated* 
+	- MetaData Guide folder:
+	*Folder created Date: 2022-March-19th, File created Date: undated* 
 		- information about each data file
 			- Filename: 
 				- raw_data_description.doc: describes the rows and columns of each raw data file.
@@ -104,7 +106,8 @@ DATA & FILE OVERVIEW
 						- student pseudo ids
 					- attribute 
 						- the study is undergoing, the attributes will be the same with the newest analysis_code version.  
-	- Analysis Data: (contains clean (importable) data and data used to analysis) *Folder created Date: 2022-March-19th, File created Date: undated* 
+	- Analysis Data: (contains clean (importable) data and data used to analysis)
+	*Folder created Date: 2022-March-19th, File created Date: undated* 
 		- cleaned data from Zoom 
 			- Filename: clean_zoom.csv
 				- rows
@@ -130,7 +133,8 @@ DATA & FILE OVERVIEW
 					- mandatory? (categorical data: whether the course is mandatory or not) 
 					- office hour attendance? (categorical data: whether a student has attended office hour) 
 					- the estimated total number of study hours outside of the class
-	- Command folder: (Keeping track of the whole research process) *Folder created Date: 2022-March-19th, File created Date: undated* 
+	- Command folder: (Keeping track of the whole research process)
+	*Folder created Date: 2022-March-19th, File created Date: undated* 
 		- Research Records in each phase 
 			Filename: Research_record.pdf 
 		- analysis files
