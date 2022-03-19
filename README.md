@@ -11,25 +11,23 @@ GENERAL INFORMATION
 		[Email]:(markwangruoqi@gmail.com)
 
 	B. Associate or Co-investigator Contact Information\
-		[Name]:
+		[Name]: Wendy Wen
 		<br />
-		[Institution]: 
+		[Institution]: Teachers College, Columbia University\
 		<br />
-		[Address]: 
+		[Address]: China
 		<br />
-		[Email]:
-		<br />
+
 
 	C. Alternate Contact Information <br />
 	<br />
-		[Name]: 
+		[Name]: Rebecca
 		<br />
-		[Institution]:
+		[Institution]:Teachers College, Columbia University\
 		<br />
-		[Address]: 
+		[Address]: China 
 		<br />
-		[Email]:
-		<br />
+
 
 3. Date of data collection: 
 		<br />
@@ -193,7 +191,6 @@ METHODOLOGICAL INFORMATION
   The data will be collected with the agreement from school, Zoom, and Canvas. 
 
 2. Methods for processing the data: 
-<describe how the submitted data were generated from the raw or collected data>
   Data Cleaning Process: 
 	* Combine two tables into one, with rows being represented as observations and columns being represented as variables. 
 	* Continuous variable with a wide range, we standardize them to improve model performance, such as ‘average essay scores’ and ‘average previous tests’. 
@@ -219,7 +216,6 @@ DATA-SPECIFIC INFORMATION FOR: core_data.csv
 2. Number of cases/rows: 
 	200 (futer changes will be updated)
 3. Variable List: 
-<list variable name(s), description(s), unit(s)and value labels as appropriate for each>
 	- numhandraise: the number of "hand-rasing" clicks - variable is assessed by how many times the student clicks on the “raise hand” button on Zoom throughout the whole semester. 
 	- abentdays: the number of absent days - This is assessed by the number of times the student did not enter the zoom meeting at all while there is a class scheduled throughout the whole semester. 
 	- discussposts: the number of discussion post -This is assessed by how many posts the students posted on the voluntary discussion board of the course.
