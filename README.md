@@ -31,7 +31,7 @@ GENERAL INFORMATION
 		2022-April: the data extracted from canvas throughout the whole term.
 		<br />
 		2022-May (After students' final exam): Surveys (whether this is the mandatory or elective courses) (Detect Confounding Variables)
-	
+		(Further changes will be updated
 	
 
 4. Geographic location of data collection <latitude, longiute, or city/region, State, Country, as appropriate>:
