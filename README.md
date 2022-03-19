@@ -11,19 +11,14 @@ GENERAL INFORMATION
 		[Email]:(markwangruoqi@gmail.com)
 
 	B. Associate or Co-investigator Contact Information\
-		[Name]: Wendy Wen
-		<br />
+		[Name]: Wendy Wen\
 		[Institution]: Teachers College, Columbia University\
-		<br />
 		[Address]: China
 		<br />
 
 	C. Alternate Contact Information <br />
-	<br />
-		[Name]: Rebecca
-		<br />
+		[Name]: Rebecca\
 		[Institution]:Teachers College, Columbia University\
-		<br />
 		[Address]: China 
 		<br />
 
