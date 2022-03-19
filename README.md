@@ -18,7 +18,6 @@ GENERAL INFORMATION
 		[Address]: China
 		<br />
 
-
 	C. Alternate Contact Information <br />
 	<br />
 		[Name]: Rebecca
@@ -27,7 +26,6 @@ GENERAL INFORMATION
 		<br />
 		[Address]: China 
 		<br />
-
 
 3. Date of data collection: 
 		<br />
