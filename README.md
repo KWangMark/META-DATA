@@ -164,7 +164,7 @@ DATA & FILE OVERVIEW
 						- student psudo ids 
 					- attributes
 						- the study is undergoing, the adjusted attributes will be updated here
-				- Filename: analysis_code_v2.html (the second code version for analyzing) 
+				- Filename: analysis_code_vfinal.html (the newest code version for analyzing) 
 					- cluster analysis 
 					- Principle Component analysis 
 					- logistic regression model 
