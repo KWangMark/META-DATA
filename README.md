@@ -100,7 +100,7 @@ DATA & FILE OVERVIEW
 		- information about variables 
 		 	- codebook files
 				- File name: codebook.pdf
-		- core data **(refer to readings from week 8)**  
+		- core data 
 			Filename: core_data.csv (keep one record of the core data that can replicate the study outcome) 
 					- rows 
 						- student pseudo ids
