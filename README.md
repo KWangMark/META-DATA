@@ -78,8 +78,7 @@ SHARING/ACCESS INFORMATION
 
 DATA & FILE OVERVIEW
 
-1. File List: **(refers to TIER folders)**  
-<list all files (or folders, as appropriate for dataset organization) contained in the dataset, with a brief description>
+1. File List:   
 	- Original Data folder: (contains files about raw data)\
 	*Folder created Date: 2022-March-19th, File created Date: undated* 
 		- raw data extracted from Zoom
